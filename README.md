@@ -1,15 +1,15 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+ <h1 align="center"> Billy's MD
+<p align="center"> Zambia kuchalo 
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Billyzbanda/Suhail-Md/edit/main/🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Billy" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
